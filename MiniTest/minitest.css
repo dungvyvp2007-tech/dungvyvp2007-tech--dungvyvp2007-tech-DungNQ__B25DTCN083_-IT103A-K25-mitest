@@ -19,7 +19,7 @@ h1{
 }
 .menu a:hover{
     background-color: #78350f ;
-    color: yellow;
+    color: white;
 }
 .picture{
     text-align: center;
@@ -43,3 +43,4 @@ h1{
 p,li{
     color: black;
 }
+
