@@ -27,7 +27,7 @@ h1{
 .h2-1, .h2-2, .h2-3{
     background-color: white;
     padding: auto;
-    color: black;
+    color: #92400e;
 }
 .h2-2 li:hover{
     background-color: #78350f ;
@@ -35,6 +35,11 @@ h1{
 }
 .footer{
     background-color: #78350f ;
-    color: white;
     text-align: center;
+}
+.footer p{
+    color:white
+}
+p,li{
+    color: black;
 }
