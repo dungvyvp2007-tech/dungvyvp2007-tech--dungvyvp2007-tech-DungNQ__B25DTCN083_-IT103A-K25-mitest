@@ -1,0 +1,45 @@
+body{
+    background-color: #fff7ed ;
+    font-family: cursive;
+    color: #92400e ;
+}
+.header{
+    text-align: center;
+}
+h1{
+    background-color: #fde68a;
+}
+.menu{
+    background-color: #fed7aa ;
+}
+.menu a{
+    background-color: #fed7aa ;
+    text-decoration:none ;
+    font-weight: bold;
+}
+.menu a:hover{
+    background-color: #78350f ;
+    color: yellow;
+}
+.picture{
+    text-align: center;
+}
+.h2-1, .h2-2, .h2-3{
+    background-color: white;
+    padding: auto;
+    color: #92400e;
+}
+.h2-2 li:hover{
+    background-color: #78350f ;
+    color: yellow;
+}
+.footer{
+    background-color: #78350f ;
+    text-align: center;
+}
+.footer p{
+    color:white
+}
+p,li{
+    color: black;
+}
