@@ -17,6 +17,10 @@ h1{
     text-decoration:none ;
     font-weight: bold;
 }
+.menu a:hover{
+    background-color: #78350f ;
+    color: yellow;
+}
 .picture{
     text-align: center;
 }
